@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>拉钩教育</h1>
+    <h1>拉勾教育</h1>
     <router-view/>
   </div>
 </template>
